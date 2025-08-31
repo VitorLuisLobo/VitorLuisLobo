@@ -2,7 +2,7 @@
 
 **` Estudante de Ciencia da Computação`**
 
-Me chamo Vitor Luis Lobo Barbosa, tenho 18 anos e sou natural de Minas Gerais. Conclui o ensino médio na Escola do Sebrae, onde me formei como técnico em administração. Cursei meio periodo de Ciencias de Dados no IBMEC e Atualmente estou no 2° periodo de Ciencia da Computação na PUC MINAS.
+Me chamo Vitor Luis Lobo Barbosa, tenho 19 anos e sou natural de Minas Gerais. Conclui o ensino médio na Escola do Sebrae, onde me formei como técnico em administração. Cursei meio periodo de Ciencias de Dados no IBMEC e Atualmente estou no 3° periodo de Ciencia da Computação na PUC MINAS.
 
 ---
 
