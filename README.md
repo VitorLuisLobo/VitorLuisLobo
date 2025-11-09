@@ -32,5 +32,11 @@
 
 ## Contact me!
 
+<p align="left">
+  <a href="www.linkedin.com/in/vitor-lobo-451687231">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
 Para entrar em contato comigo, estarei disponibilizando o meu Linkedin.
 "[VitorLobo](www.linkedin.com/in/vitor-lobo-451687231)"
