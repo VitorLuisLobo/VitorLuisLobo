@@ -1,70 +1,36 @@
-# 👨🏻‍💻 Vitor Luis
+# Vitor Luis Lobo Barbosa
+<div align="left">
+    
+🎓 **Computer Science student**  
+💡 Interested in **process automation**, **no-code workflows**, and **data integration**  
+⚙️ Currently learning **Excel**, **Java**, **n8n**, **PostgreSql** to start developing real-world solutions  
+🌱 Exploring **artificial intelligence applied to finance and smart automation**
 
-**` Estudante de Ciencia da Computação`**
 
-Me chamo Vitor Luis Lobo Barbosa, tenho 19 anos e sou natural de Minas Gerais. Conclui o ensino médio na Escola do Sebrae, onde me formei como técnico em administração. Cursei meio periodo de Data Science no IBMEC e Atualmente estou no 3° periodo de Ciencia da Computação na PUC MINAS.
+</div>
+
+
+
+
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"               
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"         
-/>
-
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+### Languages and Tools
 
 
-   <img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css" />
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres,github,git,vscode" />
+  </a>
+</p>
 
-<br/>
-<br/>
-
-## 💡 Linkedin
+## Contact me!
 
 Para entrar em contato comigo, estarei disponibilizando o meu Linkedin.
 "[VitorLobo](www.linkedin.com/in/vitor-lobo-451687231)"
