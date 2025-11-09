@@ -33,7 +33,7 @@
 ## Contact me!
 
 <p align="left">
-  <a href="www.linkedin.com/in/vitor-lobo-451687231" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-lobo-451687231" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
